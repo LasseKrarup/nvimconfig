@@ -37,7 +37,9 @@ mv ~/.cache/nvim{,.bak}
 
 2. Clone
 
-`git clone https://github.com/LasseKrarup/nvimconfig ~/.config/nvim`
+```
+git clone https://github.com/LasseKrarup/nvimconfig ~/.config/nvim
+```
 
 ### Config - Windows PowerShell
 
@@ -53,4 +55,6 @@ Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 
 2. Clone
 
-`git clone https://github.com/LasseKrarup/nvimconfig $env:LOCALAPPDATA\nvim`
+```
+git clone https://github.com/LasseKrarup/nvimconfig $env:LOCALAPPDATA\nvim
+```
