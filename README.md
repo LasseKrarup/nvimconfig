@@ -18,7 +18,7 @@ sudo apt install make gcc ripgrep unzip git xclip fzf fd-find lazygit neovim
 ### NeoVim and prerequisites - Windows Choco
 
 ```
-choco install -y neovim git ripgrep wget unzip gzip mingw make lazygit fd-find fzf
+choco install -y neovim git ripgrep wget unzip gzip mingw make lazygit fd fzf
 ```
 
 ### Config - WSL
